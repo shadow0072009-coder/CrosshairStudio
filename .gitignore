@@ -1,0 +1,17 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Logs
+pyinstaller_build.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local user settings (language choice is personal)
+settings.json
+
+# Workspace metadata
+.freebuff/
